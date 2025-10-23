@@ -6,7 +6,7 @@
 - 🌱 I’m a master student from Duke ECE department, learning everything I like.
 - 📫 How to reach me: johnwangks1@gmail.com
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KasonW-ks&&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KasonW-ks)](https://github.com/anuraghazra/github-readme-stats)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/KasonW-ks/count.svg) visitor, thank you! 😘😘
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasonW-ks&stats_format=bytes)
 
